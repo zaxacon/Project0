@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,IAAK;EAAE,gBAAgB,EAFZ,MAAM;;AAIjB,EAAG;EACH,eAAe,EAAE,2BAA8B;EAC/C,gBAAgB,EANL,MAAM;;AAQjB,CAAE;EAAE,gBAAgB,EATb,GAAG",
+"sources": ["bathstyle.scss"],
+"names": [],
+"file": "bathstyle.css"
+}

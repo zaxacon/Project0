@@ -1,0 +1,12 @@
+$color:red;
+$backcolor:purple;
+
+body { background-color:$backcolor; }
+
+h1 { 
+text-decoration: underline overline $color wavy;
+background-color:$backcolor; }
+
+p { background-color:$color; }
+
+
